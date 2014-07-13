@@ -1,0 +1,22 @@
+{
+  "name": "define-module",
+  "version": "0.0.0",
+  "description": "squatting this name for project xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dfkaye/define-module.git"
+  },
+  "keywords": [
+    "define",
+    "module"
+  ],
+  "author": "David Kaye <dfkaye@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfkaye/define-module/issues"
+  }
+}
